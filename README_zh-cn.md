@@ -10,9 +10,11 @@
 4. 完成.
 
 #### 快捷键
+
 打开插件：
 - macOS：Command + option + N 
 - Windows：Control + alt + N
+
 快速确定：
 - macOS:Command + Enter
 - Windows:Control + Enter
