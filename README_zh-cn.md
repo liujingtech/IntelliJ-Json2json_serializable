@@ -7,7 +7,8 @@
 1. 打开 *.dart 文件
 2. 点击 menu -> code -> JsonToDartClass.
 3. 输入 json 并且点击 ok 按钮.
-4. 完成.
+4. 打开终端(windows是cmd)并输入:flutter pub run build_runner build
+5. 完成.
 
 ## 快捷键
 
