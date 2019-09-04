@@ -7,7 +7,8 @@
 1. Open the *.dart file
 2. Click menu -> code -> JsonToDartClass.
 3. Input json and click the ok button.
-4. Finished.
+4. open Terminal(Windows is CMD) and enter:flutter pub run build_runner build
+5. Finished.
 
 ## Hot key
 
